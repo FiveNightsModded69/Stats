@@ -39,10 +39,10 @@
         ]
     },
      "Cute Freddy": {
-        "Type": "Freedom",
+        "Type": "Mic Toss",
         "Image": "rbxassetid://81319662576220",
-        "Rarity": "Epic",
-        "PlacePrice": 300,
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": { 
@@ -52,36 +52,36 @@
         },
         "Upgrades": [
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 10,   
-                "Damage": 40,
+                "Damage": 40000,
                 "Cooldown": 1
             },
             {
-                "Price": 500,
+                "Price": 25000,
                 "Range": 12,
-                "Damage": 50,
+                "Damage": 70000,
                 "Cooldown": 1
             },
             {
-                "Price": 750,
+                "Price": 50000,
                 "Range": 14,
-                "Damage": 60,
+                "Damage": 180000,
                 "Cooldown": 1
             },
             {
-                "Price": 1250,
+                "Price": 78500,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 250000,
                 "Cooldown": 0.75
             }
         ]
     },
          "Cute Chica": {
-        "Type": "Single",
+        "Type": "Party + Booster",
         "Image": "rbxassetid://126311898554003",
-        "Rarity": "Epic",
-        "PlacePrice": 300,
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": { 
@@ -93,34 +93,34 @@
             {
                 "Price": 0,
                 "Range": 10,   
-                "Damage": 40,
-                "Cooldown": 1
+                "Damage": 4000,
+                "Cooldown": 0.75
             },
             {
                 "Price": 500,
                 "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Damage": 5000,
+                "Cooldown": 0.75
             },
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Damage": 7500,
+                "Cooldown": 0.75
             },
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Damage": 10000,
+                "Cooldown": 0.35
             }
         ]
     },
          "Cute Foxy": {
-        "Type": "Single",
+        "Type": "Hook",
         "Image": "rbxassetid://75343390649932",
-        "Rarity": "Epic",
-        "PlacePrice": 300,
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": { 
@@ -132,31 +132,31 @@
             {
                 "Price": 0,
                 "Range": 10,   
-                "Damage": 40,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
-            },
-            {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
+                "Range": 12,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 14,
+                "Damage": 700,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 1200,
                 "Cooldown": 0.75
             }
         ]
     },
          "Cute Bonnie": {
-        "Type": "Single",
+        "Type": "Happy Yam + Slow",
         "Image": "rbxassetid://90663359048130",
         "Rarity": "Epic",
         "PlacePrice": 300,
@@ -171,25 +171,25 @@
             {
                 "Price": 0,
                 "Range": 10,   
-                "Damage": 40,
+                "Damage": 400,
                 "Cooldown": 1
             },
             {
                 "Price": 500,
                 "Range": 12,
-                "Damage": 50,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 60,
+                "Damage": 600,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 600,
                 "Cooldown": 0.75
             }
         ]
