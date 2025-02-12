@@ -195,6 +195,241 @@
             }
         ]
     },
+        "Cute Toy Freddy": {
+        "Type": "Party Favors",
+        "Image": "rbxassetid://128965180948188",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 17500,
+                "Range": 12,   
+                "Damage": 80000,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 23500,
+                "Range": 15,
+                "Damage": 140000,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 50000,
+                "Range": 18,
+                "Damage": 240000,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 70000,
+                "Range": 25,
+                "Damage": 400000,
+                "Cooldown": 1.25
+            }
+        ]
+    },
+         "Cute Toy Bonnie": {
+        "Type": "Munchies",
+        "Image": "rbxassetid://79924822407579",
+        "Rarity": "Secret",
+        "PlacePrice": 7000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 8500,
+                "Range": 14,   
+                "Damage": 2000,
+                "Cooldown": 0.7
+            },
+            {
+                 "Price": 13525,
+                "Range": 16,   
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                 "Price": 17500,
+                "Range": 18,   
+                "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                 "Price": 22000,
+                "Range": 20,   
+                "Damage": 8750,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+        "Cute Toy Mangle": {
+        "Type": "Flame Hook",
+        "Image": "rbxassetid://129026771574735",
+        "Rarity": "Epic",
+        "PlacePrice": 7000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 8500,
+                "Range": 14,   
+                "Damage": 2000,
+                "Cooldown": 0.7
+            },
+            {
+                 "Price": 13525,
+                "Range": 16,   
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                 "Price": 17500,
+                "Range": 18,   
+                "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                 "Price": 22000,
+                "Range": 20,   
+                "Damage": 8750,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+        "Cute Toy Chica": {
+        "Type": "Birthday",
+        "Image": "rbxassetid://131056321964386",
+        "Rarity": "Epic",
+        "PlacePrice": 7000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 8500,
+                "Range": 14,   
+                "Damage": 2000,
+                "Cooldown": 0.7
+            },
+            {
+                 "Price": 13525,
+                "Range": 16,   
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                 "Price": 17500,
+                "Range": 18,   
+                "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                 "Price": 22000,
+                "Range": 20,   
+                "Damage": 8750,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+
+      "Cute Toy Foxy": {
+        "Type": "Flame Hook",
+        "Image": "rbxassetid://107385509175135",
+        "Rarity": "Unknown",
+        "PlacePrice": 0,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 1000,   
+                "Damage": 1,
+                "Cooldown": 0
+            },
+            {
+                 "Price": 13525,
+                "Range": 16,   
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                 "Price": 17500,
+                "Range": 18,   
+                "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 5000,   
+                "Damage": 50,
+                "Cooldown": 0
+            }
+        ]
+    },
+         "Cute Puppet": {
+        "Type": "Telekinesis",
+        "Image": "rbxassetid://137818638156272",
+        "Rarity": "Unknown",
+        "PlacePrice": 500000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 500000,
+                "Range": 24,   
+                "Damage": 1500000,
+                "Cooldown": 1
+            },
+            {
+                 "Price": 13525,
+                "Range": 16,   
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                 "Price": 17500,
+                "Range": 18,   
+                "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 2250000,
+                "Range": 42,   
+                "Damage": 9525000,
+                "Cooldown": 1
+            }
+        ]
+    },
  "The Doctor": {
         "Type": "Nuke + Poison",
         "Image": "rbxassetid://121486239640446",
