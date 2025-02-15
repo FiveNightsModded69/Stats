@@ -38,6 +38,45 @@
             }
         ]
     },
+        "God Freddy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Uncommon",
+        "PlacePrice": 0,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100000,   
+                "Damage": 500000,
+                "Cooldown": 0
+            },
+            {
+                 "Price": 0,
+                "Range": 100000,   
+                "Damage": 500000,
+                "Cooldown": 0
+            },
+            {
+                 "Price": 0,
+                "Range": 100000,   
+                "Damage": 500000,
+                "Cooldown": 0
+            },
+            {
+               "Price": 0,
+                "Range": 100000,   
+                "Damage": 505550000,
+                "Cooldown": 0
+            }
+        ]
+    },
      "Washington Freddy": {
         "Type": "Burst",
         "Image": "rbxassetid://127550767901264",
