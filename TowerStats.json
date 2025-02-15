@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Washington Freddy": {
+        "Type": "Burst",
+        "Image": "rbxassetid://127550767901264",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 1500,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 500,
+                "Range": 20,
+                "Damage": 1600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 1700,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 2200,
+                "Cooldown": 1
+            }
+        ]
+    },
       "Cute Toy Freddy": {
         "Type": "Party Favors",
         "Image": "rbxassetid://128965180948188",
