@@ -10507,29 +10507,6 @@
             }
         ]
     },
-
-    "Burntrap": {
-        "Type": "Single",
-        "Image": "rbxassetid://120446334712341",
-        "Rarity": "Nightmare",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-              "Cooldown": 1
-            }
-        ]
-    },
-
     "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
@@ -12314,6 +12291,45 @@
                 "Range": 25,
                 "Damage": 800,
                 "Cooldown": 1.5
+            }
+        ]
+    },
+       "M.X.E.S": {
+        "Type": "Splash",
+        "Image": "rbxassetid://82739231104788",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 45000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 7500,
+                "Range": 22,
+                "Damage": 50000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 35000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 40000,
+                "Cooldown": 0.45
             }
         ]
     },
