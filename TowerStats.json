@@ -11349,14 +11349,15 @@
             }
         ]
     },
-   "Gaia Chica": {
+    "Gaia Chica": {
         "Type": "Pierce Spread + Traps",
         "Image": "rbxassetid://137838669403437",
         "Rarity": "Forgotten",
         "PlacePrice": 49000,
         "NoEnemyAttack": true,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
+        "Passive": {"Name": "Flourish", "Description": "Every 7 seconds Gaia Chica summons a cupcake trap with health equal to her damage. (Max traps 100 per placement)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11366,25 +11367,25 @@
             {
                 "Price": 0,
                 "Range": 24,
-                "Damage": 65000,
+                "Damage": 52000,
                 "Cooldown": 4
             },
             {
                 "Price": 60000,
                 "Range": 25,
-                "Damage": 80000,
+                "Damage": 65000,
                 "Cooldown": 4
             },
             {
                 "Price": 70000,
                 "Range": 27,
-                "Damage": 100000,
+                "Damage": 87000,
                 "Cooldown": 4
             },
             {
                 "Price": 80000,
                 "Range": 32,
-                "Damage": 120000,
+                "Damage": 95000,
                 "Cooldown": 4
             }
         ]
