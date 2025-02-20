@@ -38,6 +38,170 @@
             }
         ]
     },
+      "Gigachad Freddy Toilet": {
+        "Type": "Farm",
+        "Image": "rbxassetid://72169861428697",
+        "Rarity": "Mythic",
+        "PlacePrice": 200,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2,
+                "Farm": 350
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Farm": 450
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Farm": 550
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.75,
+                "Farm": 750
+            }
+        ]
+    },
+       "Freddy Toilet": {
+        "Type": "Single",
+        "Image": "rbxassetid://125068275009248",
+        "Rarity": "Epic",
+        "PlacePrice": 350,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 1,
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 0.7,        
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 450,
+                "Cooldown": 0.5,             
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 575,
+                "Cooldown": 0.3,          
+            }
+        ]
+    },
+      "Upgraded Freddy Toilet": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://73608069620801",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.7,
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 0.5,        
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 0.3,             
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 575,
+                "Cooldown": 0.1,          
+            }
+        ]
+    },
+       "Boss Freddy Toilet": {
+        "Type": "Aoe + Farm",
+        "Image": "rbxassetid://90047422064384",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.5,
+                "Farm": 450,
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 0.5, 
+                "Farm": 475,
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 0.3,
+                "Farm": 550,
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 575,
+                "Cooldown": 0.1,  
+                "Farm": 750,
+            }
+        ]
+    },
        "God Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://16620053009",
